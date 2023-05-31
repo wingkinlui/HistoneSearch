@@ -5,7 +5,7 @@ Created on Wed Mar 16 11:13:14 2022
 This is the script to generate theoretical spectra.
 Return a .puf file.
 
-@author: wingk
+@author: wingkinlui
 """
 import numpy as np
 import xml.etree.ElementTree as ET
